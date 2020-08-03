@@ -1,5 +1,5 @@
 ### 뭐하는 인간 일까? 👋
-<img width="800" src=https://raw.githubusercontent.com/Han-seungjae/Han-seungjae/master/han.jpg>
+<img width="50%" src=https://raw.githubusercontent.com/Han-seungjae/Han-seungjae/master/han.jpg>
 본명: 한승재
 
 포렌식 요정 또는 한유이라 부른다<br>
