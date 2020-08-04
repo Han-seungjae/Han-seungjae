@@ -8,4 +8,17 @@ Living in Ulsan South Korea<br>
 
 <h2>Academic background</h2>
 
-<img src=http://www.haksung.hs.kr/files/2020/01/haksung-h/a9ef779cb53f480889bee60f5089dfd7/02.gif> 
+<img width="80" src=http://www.haksung.hs.kr/files/2020/01/haksung-h/a9ef779cb53f480889bee60f5089dfd7/02.gif>  
+
+2020 ~ : Haksung High School (attending school)
+
+<h2>Operations Site</h2>
+<h3>KHC</h3>
+
+KHC Community<br>
+KHC wiki<br>
+KHC wargame<br>
+
+<h2>MY DREAM</h2>
+<h3>Getting rid of computer illiteracy in Korea</h3>
+
