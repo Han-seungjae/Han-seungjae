@@ -1,3 +1,5 @@
+<h1>There is no useless programming in the world. Just make and see. -Han Yui-</h1>
+
 ### Who is Han Yui(Han Seung-jae)? 👋
 <img width="50%" src=https://raw.githubusercontent.com/Han-seungjae/Han-seungjae/master/han.jpg>
 
