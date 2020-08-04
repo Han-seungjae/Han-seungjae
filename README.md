@@ -12,13 +12,13 @@ Living in Ulsan South Korea<br>
 <h2>MY laptop</h2>
 
 LG Gram 
-
-CPU : i7-8565U
-Ram : DDR4 8GB
-SSD : WD SA530 256GB
-HDD : none
-Display : 15.6 inchi
-OS : Windows 10 home / Ubuntu 20.04 (double boot)
+<br>
+CPU : i7-8565U<br>
+Ram : DDR4 8GB<br>
+SSD : WD SA530 256GB<br>
+HDD : none<br>
+Display : 15.6 inchi<br>
+OS : Windows 10 home / Ubuntu 20.04 (double boot)<br>
 
 <h2>Ongoing Project</h2>
 
