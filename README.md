@@ -9,6 +9,17 @@ Living in Ulsan South Korea<br>
 <h2>MY DREAM</h2>
 <h3>Getting rid of computer illiteracy in Korea</h3>
 
+<h2>MY laptop</h2>
+
+LG Gram 
+
+CPU : i7-8565U
+Ram : DDR4 8GB
+SSD : WD SA530 256GB
+HDD : none
+Display : 15.6 inchi
+OS : Windows 10 home / Ubuntu 20.04 (double boot)
+
 <h2>Ongoing Project</h2>
 
 One Commit per Day
