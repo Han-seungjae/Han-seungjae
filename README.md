@@ -21,6 +21,7 @@ One Commit per Day
 
 <h2>Operations Site</h2>
 <h3>KHC</h3>
+<img src=http://wargame.koreahacker.co.kr/files/0245425fa6310cbe94199e0655864414/logo.png>
 
 KHC Community<br>
 KHC wiki<br>
