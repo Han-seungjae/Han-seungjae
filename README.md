@@ -8,4 +8,4 @@ Living in Ulsan South Korea<br>
 
 <h2>Academic background</h2>
 
-2020 ~ : Haksung High School
+<img src=http://www.haksung.hs.kr/files/2020/01/haksung-h/a9ef779cb53f480889bee60f5089dfd7/02.gif> 
