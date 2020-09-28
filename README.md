@@ -1,5 +1,9 @@
-<h1>There is no useless programming in the world. Just make and see. -Han Yui-</h1>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Han-seungjae)]
+<h1>There is no useless programming in the world. Just make and see. -Han Yui-</h1><br>
+
+<div align=center>
+
+https://github-readme-stats.vercel.app/api?username=Han-seungjae
+</div>
 ### Who is Han Yui(Han Seung-jae)? 👋
 <img width="50%" src=https://raw.githubusercontent.com/Han-seungjae/Han-seungjae/master/han.jpg>
 
