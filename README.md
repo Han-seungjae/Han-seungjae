@@ -26,8 +26,9 @@ Living in Ulsan South Korea<br>
 LG Gram 
 <br>
 CPU : i7-8565U<br>
-Ram : DDR4 8GB<br>
+Ram : DDR4 8 + 32 GB<br>
 SSD : WD SA530 256GB<br>
+      SanDisk Ultra 3D NVMe 1TB <br>
 HDD : none<br>
 Display : 15.6 inchi<br>
 OS : Windows 10 home / Ubuntu 20.04 (double boot)<br>
