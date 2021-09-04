@@ -24,7 +24,7 @@ I'm study web hacking, digital forensics.
       
 <img width="160" src=https://daegu.ac.kr/resources/images/site/layout/header_logo.gif>  
       
-2021 ~ : attending Daegu National University's Information Protection Talent Education Center
+2021 ~ : attending Daegu University's Information Protection Talent Education Center
       
 <h2>Hardware in use</h2>
 
