@@ -24,12 +24,21 @@ I'm study web hacking, digital forensics.
       
 <img width="160" src=https://daegu.ac.kr/resources/images/site/layout/header_logo.gif>  
       
-2021 ~ : attending Daegu University's Information Protection Talent Education Center
+2021 ~ 2022.06: Daegu University's Information Protection Talent Education Center
+
+<img src=https://www.kitribob.kr/static/front/images/edu/logo.png>
+
+2022.07~ Kitri Best of the Best sec security consulting track 11th
       
 <h2>Hardware in use</h2>
 
-LG gram 2019(i7,Ram40GB)
+laptop :
+samsung glaxy book pro 1
+(cpu : i7-1165G7, ram : ddr4x 16GB)
 <br>
+server :
+Dell poweredge R710
+(cpu : Xeon X5660 * 2cpu, Ram : ddr3 96GB)
 
-raspberry pi 4B 2GB
+ 
  
